@@ -4,3 +4,6 @@
 [submodule "Act2.3/act2.3_TC1031"]
 	path = Act2.3/act2.3_TC1031
 	url = https://github.com/C2N14/act2.3_TC1031.git
+[submodule "Act3.4/act3.4_TC1031"]
+	path = Act3.4/act3.4_TC1031
+	url = https://github.com/C2N14/act3.4_TC1031.git
